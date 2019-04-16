@@ -1,0 +1,11 @@
+C:\Users\bohdan.lushchyk\source\repos\AWSLambda2\AWSLambda2\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.deps.json
+C:\Users\bohdan.lushchyk\source\repos\AWSLambda2\AWSLambda2\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.runtimeconfig.json
+C:\Users\bohdan.lushchyk\source\repos\AWSLambda2\AWSLambda2\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.runtimeconfig.dev.json
+C:\Users\bohdan.lushchyk\source\repos\AWSLambda2\AWSLambda2\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.dll
+C:\Users\bohdan.lushchyk\source\repos\AWSLambda2\AWSLambda2\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.pdb
+C:\Users\bohdan.lushchyk\source\repos\AWSLambda2\AWSLambda2\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.csprojAssemblyReference.cache
+C:\Users\bohdan.lushchyk\source\repos\AWSLambda2\AWSLambda2\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.csproj.CoreCompileInputs.cache
+C:\Users\bohdan.lushchyk\source\repos\AWSLambda2\AWSLambda2\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.AssemblyInfoInputs.cache
+C:\Users\bohdan.lushchyk\source\repos\AWSLambda2\AWSLambda2\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.AssemblyInfo.cs
+C:\Users\bohdan.lushchyk\source\repos\AWSLambda2\AWSLambda2\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.dll
+C:\Users\bohdan.lushchyk\source\repos\AWSLambda2\AWSLambda2\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda2.pdb
