@@ -41,9 +41,25 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[3.3.100.6, )"
+            },
             "AWSSDK.DynamoDBv2": {
               "target": "Package",
               "version": "[3.3.100.5, )"
+            },
+            "AWSSDK.Lambda": {
+              "target": "Package",
+              "version": "[3.3.100.6, )"
+            },
+            "AWSSDK.SecretsManager": {
+              "target": "Package",
+              "version": "[3.3.100.5, )"
+            },
+            "Amazon.Lambda.APIGatewayEvents": {
+              "target": "Package",
+              "version": "[1.2.0, )"
             },
             "Amazon.Lambda.Core": {
               "target": "Package",
@@ -65,6 +81,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true
+        }
+      },
+      "runtimes": {
+        "rhel.7.2-x64": {
+          "#import": []
         }
       }
     }

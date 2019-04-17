@@ -1,0 +1,7 @@
+{
+  "Action": "write",
+  "Value": {
+       "Artist": "Test Artist",
+       "SongTitle": "Song Name" 
+}
+}
